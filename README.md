@@ -10,6 +10,23 @@ I couldn't find a note-taking app that ticked all the boxes I'm interested in: n
 
 So I built my own.
 
+
+## Building Notable
+
+```
+$ git clone git@github.com:mikerathbun/notable.git
+$ cd notable
+$ npm install
+$ npm run svelto:dev
+$ npm run monaco
+$ npm run iconfont
+$ npm run tutorial
+$ npm run dev # Terminal 1
+$ npm run svelto:dev:watch # Terminal 2
+
+```
+
+
 ## Features
 
 ```
